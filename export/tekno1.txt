@@ -1,0 +1,27 @@
+denpasar kompas.com - kecerdasan buatan artificial intelligence ai seperti chatgpt kerap terlihat mengagumkan karena pintar dan seolah tahu segala. bahkan firma keamanan seperti kaspersky pun memanfaatkannya dalam proses analisis karena bisa menghemat waktu.
+head of asia pacific research and analysis team kaspersky vitaly kamluk menjelaskan bahwa ai berbasis large language model llm sepert chatgpt menggunakan model statistik dan informasi yang dikumpulkan dari data hasil training termasuk dari buku artikel dan laman web.
+namun dia menambahkan pengguna mesti hati-hati karena jawaban ai seperti chatgpt tidak selalu akurat melainkan bisa keliru menafsirkan data dan malah memberikan respon yang ngawur seperti mengarang bebas. kamluk menyebut fenomena ini sebagai halusinasi ai .
+ karena mereka ai llm adalah model statistik. tujuan utamanya adalah memberikan jawaban sebaik mungkin untuk memuaskan si penanya. kadang bisa terlihat meyakinkan seolah benar padahal tidak ujar kamluk ketika berbicara dalam asia pacific cyber security weekend kaspersky di bali kamis .
+baca juga gelar acara di bali kaspersky bahas bahaya dan manfaat ai untuk sekuriti
+dia mendemonstrasikan contohnya dengan bertanya ke chatgpt di panggung soal buku apa yang pernah ditulisnya. chatgpt menjawab bahwa kamluk menulis dua buku tentang cybersurvival dan reverse engineering . sekilas jawabannya terkesan bisa dipercaya tapi ternyata salah.
+ memang temanya termasuk dalam bidang saya tapi saya tidak pernah menulis buku soal itu ujar kamluk. selanjutnya dia bertanya soal minuman kesukaan vitaly kamluk alias dirinya sendiri. chatgpt memberi dua nama minuman yang diambil dari buku karangan kamluk yang lagi-lagi keliru karena dia tak pernah menulis buku itu.
+bagaimana cara mengenali apabila ai sedang berhalusinasi ? menurut kamluk potensi disinformasi macam begini sebenarnya sudah lama ada jauh sebelum booming ai. cara menyikapinya pun sama yakni dengan memelihara sikap skeptis serta selalu melakukan validasi dan cek fakta.
+ kita bisa melihat kalau-kalau ada jawaban ai yang terkesan aneh atau mencurigakan. ikuti saja intuisi dan common sense anda ujarnya.
+ditemui di sela acara kamluk menjelaskan bahwa ai seperti chatgpt sebenarnya hanya mempelajari pola dari hasil training tapi tidak mengerti konteks dari suatu hal seperti manusia.
+untuk menunjukkan maksudnya dia mengambil laptop dan menunjukkannya ke kompastekno. di laptop dia kembali berinteraksi dengan chatgpt kali ini dengan meminta chatgpt membalik urutan angka.
+awalnya chatgpt bisa membalik urutan angka yang mudah seperti dengan benar. setelah angkanya dibuat lebih rumit dan acak jawaban chatgpt mulai melantur dengan menghasilkan urutan yang salah.
+baca juga kaspersky sarankan keamanan siber masuk kurikulum sekolah
+ jadi dia chatgpt hanya mencocokkan pola pertanyaan dengan apa yang pernah dipelajarinya saja tapi tidak mengerti konteks seperti anda dan saya. kita manusia bisa paham bahwa permintaannya adalah membalik urutan angka tapi dia sebenarnya tidak paham jelas kamluk.
+ketidakpahaman konteks ini juga membuat ai seperti chatgpt rentan dikadali meskipun pembuatnya sudah menerapkan batasan-batasan.
+kamluk memberi contoh bahwa chatgpt akan menolak jika diminta menulis program jahat untuk mencuri data karena memang ada batasan soal etika dari pembuatnya. namun ketika pertanyaannya diubah dengan permintaan melengkapi kode program yang tujuannya sama-sama mencuri data chatgpt dengan lancar memberikan jawaban.
+ begitu juga kalau anda minta dia terangkan cara untuk hal lain yang dilarang dia akan menolak. tapi kalau pertanyaannya diubah dia akan menjawab meskipun sebenarnya sama-sama soal hal itu ujar kamluk.
+ halusinasi ai menurut kamluk awalnya mungkin terlihat lucu karena melantur tapi hal ini bisa berujung pada misinformasi yang berbahaya.
+kesalahan satu karakter dan penulisan program saja misalnya bisa membuat program crash alias tak bisa berjalan. lebih bahaya lagi kalau soal hal-hal seperti pertanyaan terkait kesehatan. jawaban salah bisa berakibat fatal.
+celakanya lanjut kamluk jawaban mengarang indah dari halusinasi ai bisa tak disadari oleh pengguna yang kemudian mengunggah jawaban itu ke internet.
+jawaban ngawur tersebut lantas bisa dijadikan acuan oleh ai lain yang mengumpulkan data dari internet dalam proses training. lalu prosesnya berulang lagi sampai berkali-kali. akibatnya misinformasi pun bisa menyebar luas.
+untuk mencegah hal ini kamluk mengatakan bahwa para pengembang ai dan regulator perlu menerapkan aturan main dan standarisasi dalam mengembangkan kecerdasan buatan.
+baca juga cara mengenali penipuan mama minta pulsa versi deepfake
+ harus ada aliansi antar-pengembang ai untuk mencegah polusi informasi macam itu ujar kamluk. mesti ada legislasi juga agar ada landasan hukum supaya para pengembang dan penegak hukum bisa bekerja sama dengan lancar .
+untuk sekarang menurut dia pengembangan ai masih dalam tahap awal sehingga para pelaku industrinya masih berjalan sendiri-sendiri dan meraba-raba termasuk juga regulator. namun sebagian pengembang seperti openai chatgpt disebutnya sudah mulai membuat standarisasi pengembangan ai.
+kendati masih tersandung di sana-sini kamluk mengaku optimis ai bakal memberi lebih banyak manfaat bagi manusia di masa depan alih-alih mudarat.
+ saya pikir ai akan meningkatkan kehidupan kita. bukan menghilangkan pekerjaan tapi mengoptimalkan aktivitas dengan memberi solusi-solusi baru ujarnya. saya percaya masa depan manusia cerah dalam hal ai tapi memang sekarang masih banyak ketidakpastian. 

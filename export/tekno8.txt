@@ -1,0 +1,18 @@
+
+kompas.com - openai menghadirkan layanan chatbot chatgpt versi enterprise. layanan ini sama seperti chatgpt yang sudah ada sebelumnya hanya saja dirancang untuk fokus ke kebutuhan bisnis.
+chatgpt enterprise bisa melakukan aneka tugas seperti chatgpt versi reguler. misalnya untuk menulis e-mail membuat esai hingga memperbaiki debug kode komputer.
+bedanya dari chatgpt biasam karena dirancang untuk kebutuhan bisnis chatgpt enterprise juga dibekali kemampuan untuk menganalisis data.
+selain itu openai juga mengeklaim pihaknya meningkatkan performa chatgpt versi enterprise serta penyesuaian layanan yang lebih baik dibanding versi biasa.
+ hari ini menandai langkah lain menuju asisten ai untuk pekerjaan yang membantu aneka tugas melindungi data perusahaan dan bisa disesuaikan dengan organisasi anda kata openai melalui blog perusahaan.
+baca juga chatgpt terancam bangkrut
+fitur lainnya yang ada di chatgpt enterprise antara lain alat khusus bagi admin untuk mengelola bagaimana karyawan memakai chatgpt termasuk integrasi untuk login verifikasi domain hingga dasbor yang dilengkapi dengan statistik penggunaan.
+ada pula template percakapan yang bisa dipakai karyawan untuk berkomunikasi melalui chatgpt.
+chatgpt enterprise juga bisa menganalisis data berkat dukungan fitur advanced data analysis atau analisis data tingkat lanjut.
+dengan fitur itu chatgpt versi enterprise bisa pula membuat bagan menyelesaikan soal matematika termasuk memproses aneka dokumen yang diunggah. misalnya untuk membuat bagan atau menganalisa dari dokumen tertentu yang diunggah pengguna.
+untuk tugas itu pengguna bisa memberikan perintah contohnya beri tahu saya apa yang menarik dari data ini. 
+dengan perintah tersebut chatgpt versi enterprise akan menganalisa data misalnya data terkait keuangan kesehatan dan lainnya kemudian menampilkan hasil analisanya.
+baca juga pendiri openai beri wanti-wanti soal kecerdasan buatan
+sebelumnya fitur advanced data analysis hanya tersedia untuk pelanggan chatgpt plus baik di perangkat mobile maupun web dihimpun kompastekno dari techcrunch selasa .
+nah seperti chatgpt plus chatgpt enterprise juga didukung model ai gpt-. sebagai benefit tambahan pelanggan chatgpt enterprise akan mendapat akses prioritas ke gpt- sehingga kinerjanya lebih cepat dibanding gpt- standar.
+soal harga openai tak mengungkap harga dari chatgpt enterprise. sebab biayanya diklaim tergantung pada penggunaan dan kebutuhan masing-masing perusahaan atau klien.
+adapun mereka yang ingin memakai chatgpt enterprise bisa langsung menghubung openai melalui tautan berikut ini.
